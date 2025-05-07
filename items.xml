@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+    <passive id="1" name="Satan's Ring" gfx="satanring.png" description="DMG up + you feel evil" quality="2" cache="damage" />
+</items>
